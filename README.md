@@ -4,4 +4,4 @@ It works!
 ...hopefully
 
 sigh
-ok it works, i didnt merge
+ok it works, i didn't merge
