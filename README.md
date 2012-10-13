@@ -2,4 +2,6 @@ git-merging-excercise
 =====================
 It works!
 ...hopefully
-...maybe?
+
+sigh
+ok it works, i didnt merge
